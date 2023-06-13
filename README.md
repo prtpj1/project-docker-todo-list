@@ -25,18 +25,18 @@ E aprendi os primeiros passos de como containerizar uma aplicação utilizando D
 - Utilizar uma série de comandos do docker com diferentes níveis de complexidade
 
 ## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
-- Criar um container em modo interativo, sem rodá-lo, definindo um nome e utilizando a imagem alpine na versão 3.12 ✅
-- Iniciar o container criado ✅
-- Listar os containers filtrando pelo nome do novo container ✅
-- Executar o comando "cat /etc/os-release" no container criado sem se acoplar a ele ✅
-- Remover o container criado ✅
-- Fazer o download da imagem nginx com a versão 1.21.3-alpine sem criar ou rodar um container ✅
-- Rodar um novo container com a imagem nginx com a versão 1.21.3-alpine em segundo plano, definindo o nome da imagem e mapeando sua porta padrão de acesso para porta 3000 do sistema hospedeiro ✅
-- Parar o container da imagem criada, que está em andamento ✅
-- Gerar uma build a partir do Dockerfile do back-end do todo-app, nomeando a imagem para "todobackend" ✅
-- Gerar uma build a partir do Dockerfile do front-end do todo-app, nomeando a imagem para "todofrontend" ❌
-- Gerar uma build a partir do Dockerfile dos testes do todo-app, nomeando a imagem para "todotests" ❌
-- Subir uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar ❌
+- ✅ Criar um container em modo interativo, sem rodá-lo, definindo um nome e utilizando a imagem alpine na versão 3.12
+- ✅ Iniciar o container criado
+- ✅ Listar os containers filtrando pelo nome do novo container
+- ✅ Executar o comando "cat /etc/os-release" no container criado sem se acoplar a ele
+- ✅ Remover o container criado
+- ✅ Fazer o download da imagem nginx com a versão 1.21.3-alpine sem criar ou rodar um container
+- ✅ Rodar um novo container com a imagem nginx com a versão 1.21.3-alpine em segundo plano, definindo o nome da imagem e mapeando sua porta padrão de acesso para porta 3000 do sistema hospedeiro
+- ✅ Parar o container da imagem criada, que está em andamento
+- ✅ Gerar uma build a partir do Dockerfile do back-end do todo-app, nomeando a imagem para "todobackend"
+- ❌ Gerar uma build a partir do Dockerfile do front-end do todo-app, nomeando a imagem para "todofrontend"
+- ❌ Gerar uma build a partir do Dockerfile dos testes do todo-app, nomeando a imagem para "todotests"
+- ❌ Subir uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar
 <br>
 <hr/>
 
