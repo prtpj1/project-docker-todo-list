@@ -1,7 +1,7 @@
 # 18º Projeto: Docker - Todo List
 
 <p align="center">
-<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/18%20-%20DockerTodoList.png" alt="Header" />
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Headers/18%20-%20DockerTodoList.png" alt="Header" />
 <hr/>
 
 <p align="center">
